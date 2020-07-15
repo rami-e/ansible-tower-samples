@@ -7,7 +7,4 @@
     - name: Test Job
       debug:
         msg: "Successful!"
-    - name: Get config for devices
-      vyos_facts:
-        gather_subset: all
 
