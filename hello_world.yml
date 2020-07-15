@@ -4,7 +4,7 @@
     - name: Hello Message
       debug:
         msg: "Hello TAS TEAM"
-    - name: Test Ping to 10.10.10.10 using default vrf
-      net_ping:
-        dest: 10.0.52.78      
+    - name: Test Job
+      debug:
+        msg: "Successful!"
 
