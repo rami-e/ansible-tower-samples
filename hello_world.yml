@@ -8,5 +8,5 @@
       debug:
         msg: "Successful!"
     - name: Test Ping
-      net_ping:
+      ping:
         dest: 10.0.21.75
