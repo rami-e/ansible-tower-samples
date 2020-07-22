@@ -9,3 +9,4 @@
         msg: "Successful!"
     - name: Test Ping
       ping:
+        data: crash
