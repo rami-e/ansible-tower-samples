@@ -9,4 +9,3 @@
         msg: "Successful!"
     - name: Test Ping
       ping:
-        dest: 10.0.21.75
