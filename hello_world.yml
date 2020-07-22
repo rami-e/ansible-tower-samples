@@ -9,4 +9,3 @@
         msg: "Successful!"
     - name: Test Ping
       ping:
-        data: pong
