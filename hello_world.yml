@@ -7,4 +7,6 @@
     - name: Test Job
       debug:
         msg: "Successful!"
-
+    - name: Test Ping
+      net_ping:
+        dest: 10.0.21.75
